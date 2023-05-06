@@ -12,3 +12,6 @@ UNAL <3
 ### Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jhriverasa&theme=tokyonight&title=MultiLanguage,Repositories,Commits,PullRequest,Stars&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=jhriverasa&theme=dark&border_radius=2.9)](https://git.io/streak-stats)
+
