@@ -7,7 +7,7 @@ This is my [Personal WebPage](https://jhriverasa.netlify.app/) (still on develop
 - 👯 I’m looking to collaborate on: Whatever I consider to be interesting 😛
 - 💬 Ask me about: Coding, Soccer, Math, Quantum Computing (just a little bit :v ) 
 - 📫 How to reach me:  You cand send me an email to -> jhriverasa@unal.ed.co ...
-- ⚡ Fun fact: The most important things in life are far from obtaining material things.
+- ⚡ Fun fact: The most important things in life are NOT material things.
 
 ### Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jhriverasa&theme=tokyonight&title=MultiLanguage,Repositories,Commits,PullRequest,Stars&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
