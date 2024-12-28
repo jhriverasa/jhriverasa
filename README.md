@@ -1,8 +1,7 @@
 ### Hey 👋
 My name is Jhonatan Rivera, Im a Computer and systems engineer. [#UNAL ❤ ](https://unal.edu.co/) 
 <br />
-This is my [Personal WebPage](https://jhriverasa.netlify.app/) (still under development).
-- 🔭 I’m currently working on: Different projects using ReactJS, Next (JS/TS), Prisma, AWS, Docker and a long etcetera.
+- 🔭 Software Dev @ MELI
 - 🌱 I’m currently learning: Advanced topics of Python, AI, Computer vision, and again... a looooong etcetera.
 - 👯 I’m looking to collaborate on: Whatever I consider to be interesting 😛
 - 💬 Ask me about: Coding, Soccer, Math, Quantum Computing (just a little bit :v ) 
